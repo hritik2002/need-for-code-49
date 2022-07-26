@@ -24,3 +24,8 @@ a {
     background: black;
   }
 }
+
+input{
+  padding: 4px 0;
+  outline: none;
+}
